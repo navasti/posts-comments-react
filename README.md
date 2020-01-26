@@ -1,3 +1,9 @@
+## Posts widget written in React.
+This widged looks just like the previous one but is written in React.js and uses useEffect and useState hooks.
+Data used in the widged was fetched from the web api.
+
+Link to the previous, vanilla javascript project is https://github.com/navasti/posts-widget-js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
