@@ -62,7 +62,9 @@ const AppData = () => {
         fetching();
     },[])
     
-    let content = <h1>loading</h1>;
+    let content = <h1 
+    style={{textAlign: 'center', marginTop: 20, fontSize: 46}}
+    >Loading...</h1>;
 
     if(!isLoading && (posts && posts.length > 0) && (comments && comments.length > 0)){
         content = <Page comments={comments} posts={posts}/>
