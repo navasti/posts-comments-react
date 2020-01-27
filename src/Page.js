@@ -10,7 +10,7 @@ const Page = props => {
         <Searcher posts={posts} comments={comments}/>
         <CountSpan posts={posts} comments={comments}/>
       </header>
-      <div class="results"></div>
+      <div className="results"></div>
       <main>
         <Posts posts={posts} comments={comments}/>
       </main>
