@@ -1,6 +1,6 @@
 {
-  "homepage": "https://navasti.github.io/posts-widget-react/",
-  "name": "posts-widget",
+  "homepage": "https://github.com/navasti/posts-comments-react",
+  "name": "posts-comments-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
